@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM pro97775/mltb:v1.1
 
 WORKDIR /app
 RUN chmod 777 /app
